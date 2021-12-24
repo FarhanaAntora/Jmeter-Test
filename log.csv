@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1640370022172,2540,Customer Login,200,OK,Thread Group 1-4,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2529,0,2219
+1640370022795,1930,Customer Login,200,OK,Thread Group 1-10,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,1930,0,1602
+1640370022499,2213,Customer Login,200,OK,Thread Group 1-7,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2211,0,1897
+1640370022400,2312,Customer Login,200,OK,Thread Group 1-6,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2303,0,1992
+1640370022697,2015,Customer Login,200,OK,Thread Group 1-9,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2002,0,1687
+1640370022600,2112,Customer Login,200,OK,Thread Group 1-8,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2100,0,1779
+1640370022064,2648,Customer Login,200,OK,Thread Group 1-1,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2635,0,2324
+1640370022080,2632,Customer Login,200,OK,Thread Group 1-3,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2619,0,2308
+1640370022269,2443,Customer Login,200,OK,Thread Group 1-5,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2430,0,2103
+1640370022064,2661,Customer Login,200,OK,Thread Group 1-2,text,true,,433,288,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/login,2661,0,2336
+1640370026702,303,Create new customer,201,Created,Thread Group 1-9,text,true,,388,521,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/create,303,0,0
+1640370026702,306,Create new customer,503,Service Unavailable,Thread Group 1-4,text,false,,715,521,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/create,306,0,0
+1640370026699,311,Create new customer,201,Created,Thread Group 1-6,text,true,,388,521,10,10,https://customer-test-api.herokuapp.com/customer/api/v1/create,311,0,0
+1640370026701,314,Create new customer,503,Service Unavailable,Thread Group 1-1,text,false,,715,521,7,7,https://customer-test-api.herokuapp.com/customer/api/v1/create,313,0,0
+1640370026726,1325,Create new customer,201,Created,Thread Group 1-3,text,true,,397,530,6,6,https://customer-test-api.herokuapp.com/customer/api/v1/create,1325,0,0
+1640370026807,3315,Create new customer,201,Created,Thread Group 1-8,text,true,,400,533,5,5,https://customer-test-api.herokuapp.com/customer/api/v1/create,3315,0,0
+1640370026715,4342,Create new customer,201,Created,Thread Group 1-2,text,true,,388,521,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/create,4342,0,0
+1640370026726,5346,Create new customer,201,Created,Thread Group 1-10,text,true,,396,527,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/create,5346,0,0
+1640370026921,6312,Create new customer,201,Created,Thread Group 1-5,text,true,,409,540,2,2,https://customer-test-api.herokuapp.com/customer/api/v1/create,6312,0,0
+1640370026990,11347,Create new customer,201,Created,Thread Group 1-7,text,true,,401,534,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/create,11347,0,0
