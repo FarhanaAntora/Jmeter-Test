@@ -1,5 +1,5 @@
 # jmeter-test
-## how to run this file
+## How to run this file
 
 1. Clone the repo
 2. Run CMD in the root folder
